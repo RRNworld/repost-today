@@ -19,6 +19,10 @@ Not included:
 
 - `articles.jsonl`, the raw normalized article cache, because it is large. It can be regenerated with the included tool.
 
+## AI Detection
+
+- `rewrite_detected.csv` — manually curated AI/rewrite artifact detections, including article links, archive links, matched terms, artifact status, artifact reason, and supporting snippets.
+
 ## Reproduce
 
 From the repository root:
