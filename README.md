@@ -20,9 +20,9 @@ The full report is available at [RRN.world/rt-1516](https://rrn.world/rt-1516).
 
 ## Current Scope
 
-- 52 domains in `data/repost_today_sites.csv`
+- 58 domains in `data/repost_today_sites.csv`
 - 45 domains carried in the current hosted report snapshot
-- 7 later CSV additions not yet folded into the hosted report text
+- 13 later CSV additions not yet folded into the hosted report text
 - 40 REST-collected WordPress sites in the bundled article-match sample snapshot
 - 21 Apache Cluster B sites in the report snapshot
 - 19 LiteSpeed-side sites in the report snapshot
